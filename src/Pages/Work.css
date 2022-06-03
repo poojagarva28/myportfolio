@@ -1,0 +1,5 @@
+#work {height: 100vh;display: flex;justify-content: center;align-items: center;  min-height: 100vh;}
+#work h5{margin-bottom: 10px;line-height: 22px;}
+#work .workblock{border-bottom: 1px solid #000;margin-bottom: 10px;padding: 20px 0px;}
+#work .workblock:last-child{border-bottom: 0px;}
+#work h6.position{margin-top: -7px;}

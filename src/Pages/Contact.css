@@ -1,0 +1,5 @@
+#contact{height: 100vh;display: flex;justify-content: center;align-items: center;background-color: #000;color:#fff;text-align: center;}
+.form-control{background-color: rgb(18, 18, 18) !important;border:none !important;border-radius: 0px !important;margin-bottom: 15px;border-bottom: 1px solid rgb(23, 23, 23) !important;color:#fff !important;}
+.form-control:focus{box-shadow: none !important;border-color:rgba(255,255,255,0.2) !important;}
+#contact .btn{background-color: #fff !important;}
+#contact .btn:hover{background-color: #000 !important;color:#fff !important;border-color :#fff !important;}

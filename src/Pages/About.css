@@ -1,0 +1,21 @@
+#about{height: 100vh;}
+#about .aboutcontent{border:2px dashed #000; display: flex;justify-content: center;align-items: center;  min-height: 60vh;margin-top: 20vh;flex-direction: column;text-align: center;padding: 20px;position: relative;background-color: #fff;}
+#about .aboutcontent::before{content: '';position: absolute;top: -25px;left: -25px;width:50px;height: 50px;background-color: #000;animation:rotate 3s ease infinite;}
+#about .aboutcontent::after{content: '';position: absolute;bottom: -12.5px;right: -12.5px;width:25px;height: 25px;background-color: #000;animation:rotate 3s ease infinite;}
+@keyframes rotate{
+    25%{
+        transform: rotate(90deg);
+        transform: scale(0.7);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    75%{
+        transform: rotate(270deg);
+
+    }
+    100%{
+        transform: rotate(360deg);
+
+    }
+}

@@ -1,0 +1,7 @@
+#services{height: 100vh;display: flex;justify-content: center;align-items: center;  min-height: 100vh;}
+#services .servicebox{text-align: center;background-color: #000;border-radius: 20px;padding:30px 5px 40px;transition: 0.4s linear;border: 5px double #fff;margin-bottom: 25px;}
+#services h4{color:#fff;}
+#services img{filter: brightness(0) invert(1);width: 30%;margin: 30px 0px;}
+#services .servicebox:hover{background-color: #fff;border:5px double #000;transform: scale(1.02);}
+#services .servicebox:hover h4{color:#000;}
+#services .servicebox:hover img{filter: none;}

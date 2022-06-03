@@ -1,0 +1,23 @@
+/* #education {height: 100vh;display: flex;justify-content: center;align-items: center;  min-height: 100vh;} */
+#education{padding-top: 5%;}
+#education h5{margin-bottom: 10px;line-height: 22px;}
+#education .educationblock{border-bottom: 1px solid #000;margin-bottom: 10px;padding: 20px 0px;}
+#education .educationblock:last-child{border-bottom: 0px;}
+#education .tab-pane{padding: 0px;padding-top: 50px;}
+#education .nav-tabs{border:0px;}
+#education .nav-tabs .nav-link{border:0px;background-color: #fff;border:1px solid #000;border-radius: 0px;margin-right:10px;color:#000;padding: 5px 40px;font-size: 18px;font-weight: 600;}
+#education .nav-tabs .nav-link.active{background-color: #000;color: #fff;border-radius: 0px;}
+/* #education .nav-tabs .nav-link.active::after{content: '';
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 100%;
+    width: 0;
+    height: 0;
+    border-color: transparent transparent transparent red;
+    border-style: solid;
+    border-width: 10px;} */
+
+    @media (max-width:767px){
+        #education .nav-tabs .nav-link{padding: 5px 30px;}
+    }

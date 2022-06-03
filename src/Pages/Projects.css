@@ -1,0 +1,13 @@
+#portfolio{height: 100vh;overflow: scroll;padding: 10vh 0px;}
+#portfolio .imgsec{height: 40vh;margin-bottom: 5vh;overflow: hidden;border: 3px solid #000;border-top: 30px solid #000;position: relative;}
+#portfolio .imgsec:hover img{animation: portfolioani 7s linear ;}
+#portfolio .imgsec:hover{transform:scale(1.03);transition: 1s ease;outline: 3px solid #000;}
+@keyframes portfolioani{
+    0%{
+        transform: translateY(0%);
+    }
+    100%{
+        transform: translateY(-100%);
+    }
+   
+}

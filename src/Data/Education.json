@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "coursename":"Graphic Design",
+        "courseyear":"2020",
+        "institute":"Kalapurnam Institute",
+        "grade":"A+ Grade"
+    },
+    {
+        "id":2,
+        "coursename":"B.Tech in Computer Science and Engineering",
+        "courseyear":"2019",
+        "institute":"Nirma University",
+        "grade":"68% Percentage"
+    },
+    {
+        "id":3,
+        "coursename":"Diploma in Computer Engineering",
+        "courseyear":"2016",
+        "institute":"Tolani Foundation Gandhidham Polytechnic",
+        "grade":"84% Percentage"
+    },
+    {
+        "id":4,
+        "coursename":"SSC",
+        "courseyear":"2013",
+        "institute":"St. Xavier's High School",
+        "grade":"82.83% Percentage"
+    }
+]
