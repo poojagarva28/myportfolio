@@ -1,7 +1,7 @@
 {
   "name": "portfoliowebsite",
   "version": "0.1.0",
-  "homepage": "https://poojagarva28.github.io/home/",
+  "homepage": "https://poojagarva28.github.io/Home/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
