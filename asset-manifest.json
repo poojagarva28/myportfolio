@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.5ddbeb96.css",
-    "main.js": "/myportfolio/static/js/main.b41f8175.js",
+    "main.js": "/myportfolio/static/js/main.5d70dd10.js",
     "static/js/787.27ca2965.chunk.js": "/myportfolio/static/js/787.27ca2965.chunk.js",
     "static/media/drdharabhatt.png": "/myportfolio/static/media/drdharabhatt.bf958c78a81d6c489736.png",
     "static/media/avidorganics.png": "/myportfolio/static/media/avidorganics.26a7ef5ccefc3b5a1a3d.png",
@@ -12,18 +12,18 @@
     "static/media/alembicaustralia.png": "/myportfolio/static/media/alembicaustralia.6e1b5e776743d4f454ef.png",
     "static/media/mastercoin.png": "/myportfolio/static/media/mastercoin.52758b4ab6e572bf5401.png",
     "static/media/wimetlab.png": "/myportfolio/static/media/wimetlab.a97856b1e4c004ae2993.png",
-    "static/media/poojagarva.pdf": "/myportfolio/static/media/poojagarva.0dbadd0b8644ffea8c76.pdf",
     "static/media/profileimg.png": "/myportfolio/static/media/profileimg.a03b81549b52f1154811.png",
+    "static/media/poojagarva.pdf": "/myportfolio/static/media/poojagarva.e784eb7fddcaea08f9b4.pdf",
     "static/media/jsprojects.png": "/myportfolio/static/media/jsprojects.69d8a7d905bd4c337471.png",
     "static/media/github.png": "/myportfolio/static/media/github.22cfdd1cba253783ce51.png",
     "static/media/instagram.png": "/myportfolio/static/media/instagram.81d74f5b76e85ca7cd6a.png",
     "index.html": "/myportfolio/index.html",
     "main.5ddbeb96.css.map": "/myportfolio/static/css/main.5ddbeb96.css.map",
-    "main.b41f8175.js.map": "/myportfolio/static/js/main.b41f8175.js.map",
+    "main.5d70dd10.js.map": "/myportfolio/static/js/main.5d70dd10.js.map",
     "787.27ca2965.chunk.js.map": "/myportfolio/static/js/787.27ca2965.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ddbeb96.css",
-    "static/js/main.b41f8175.js"
+    "static/js/main.5d70dd10.js"
   ]
 }
