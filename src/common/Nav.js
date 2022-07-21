@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Nav.css";
 import Home from "../assets/img/home.png";
 import About from "../assets/img/about.png";
@@ -11,10 +11,12 @@ import Jsprojects from "../assets/img/jsprojects.png";
 import { Link } from "react-router-dom";
 
 const Nav = () => {
+  const [visible, setVisible] = useState(false);
+
   return (
     <div>
       <div id="navigation">
-        <ul className="list-unstyled">
+        <ul>
           <Link to="/myportfolio">
             <li data-aos="zoom-in">
               <img src={Home} alt="home" />
@@ -59,7 +61,47 @@ const Nav = () => {
       </div>
 
       <div id="navigation-mob">
-        <i className="bi bi-list"></i>
+        <h1 data-aos="fade-in">
+          {" "}
+          <Link to="/myportfolio">Pooja Garva</Link>
+        </h1>
+        <i
+          data-aos="fade-in"
+          className={visible ? "fa fa-close" : "fa fa-bars"}
+          onClick={() => setVisible(!visible)}
+        ></i>
+        {visible ? (
+          <ul
+            className="list-unstyled"
+            data-aos="slide-down"
+            data-aos-duration="700"
+          >
+            <Link to="/myportfolio">
+              <li>Home</li>
+            </Link>
+            <Link to="/about">
+              <li>About</li>
+            </Link>
+            <Link to="/services">
+              <li>What I Do</li>
+            </Link>
+            <Link to="/work">
+              <li>Work</li>
+            </Link>
+            <Link to="/education">
+              <li>Education</li>
+            </Link>
+            <Link to="/projects">
+              <li>Projects</li>
+            </Link>
+            <Link to="/portfolio">
+              <li>Portfolio</li>
+            </Link>
+            <Link to="/contact">
+              <li>Contact</li>
+            </Link>
+          </ul>
+        ) : null}
       </div>
     </div>
   );

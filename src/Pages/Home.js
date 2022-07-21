@@ -80,14 +80,14 @@ const Home = () => {
               <h2>Front End Developer</h2>
               <br />
               <div className="row">
-                <div className="col-sm-4">
+                <div className="col-sm-4 col-6">
                   <a href={Pdf} target="_blank" rel="noreferrer">
                     <button type="button" className="btn btn-primary">
                       Resume
                     </button>
                   </a>
                 </div>
-                <div className="col-sm-5">
+                <div className="col-sm-5 col-6">
                   <Link to="/contact">
                     <button type="button" className="btn btn-primary">
                       Hire Me

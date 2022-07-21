@@ -103,12 +103,28 @@
 
 @media (max-width: 767px) {
   #home .imgsec img {
-    top: 50vh;
-    left: 0;
-    right: 0;
+    position: initial;
+    transform: scale(1.2);
+    margin-left: -2.5%;
   }
   #home .rightcontent {
-    padding: 48vh 0px;
-    text-align: center;
+    padding: 0px;
+    text-align: left;
+    padding-bottom: 90px;
+  }
+  #home {
+    padding-top: 80px;
+    height: initial;
+    position: initial;
+  }
+  #home .socialmedia {
+    bottom: -155px;
+    left: 5px;
+  }
+  #home .rightcontent .btn {
+    margin-top: 30px;
+  }
+  #home .socialmedia a {
+    margin-right: 15px;
   }
 }
