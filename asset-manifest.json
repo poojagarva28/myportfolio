@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.5ddbeb96.css",
-    "main.js": "/myportfolio/static/js/main.5d70dd10.js",
+    "main.css": "/myportfolio/static/css/main.422b4f95.css",
+    "main.js": "/myportfolio/static/js/main.25eb64ce.js",
     "static/js/787.27ca2965.chunk.js": "/myportfolio/static/js/787.27ca2965.chunk.js",
     "static/media/drdharabhatt.png": "/myportfolio/static/media/drdharabhatt.bf958c78a81d6c489736.png",
     "static/media/avidorganics.png": "/myportfolio/static/media/avidorganics.26a7ef5ccefc3b5a1a3d.png",
@@ -12,18 +12,23 @@
     "static/media/alembicaustralia.png": "/myportfolio/static/media/alembicaustralia.6e1b5e776743d4f454ef.png",
     "static/media/mastercoin.png": "/myportfolio/static/media/mastercoin.52758b4ab6e572bf5401.png",
     "static/media/wimetlab.png": "/myportfolio/static/media/wimetlab.a97856b1e4c004ae2993.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/profileimg.png": "/myportfolio/static/media/profileimg.a03b81549b52f1154811.png",
+    "static/media/fontawesome-webfont.eot": "/myportfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/poojagarva.pdf": "/myportfolio/static/media/poojagarva.e784eb7fddcaea08f9b4.pdf",
     "static/media/jsprojects.png": "/myportfolio/static/media/jsprojects.69d8a7d905bd4c337471.png",
     "static/media/github.png": "/myportfolio/static/media/github.22cfdd1cba253783ce51.png",
     "static/media/instagram.png": "/myportfolio/static/media/instagram.81d74f5b76e85ca7cd6a.png",
     "index.html": "/myportfolio/index.html",
-    "main.5ddbeb96.css.map": "/myportfolio/static/css/main.5ddbeb96.css.map",
-    "main.5d70dd10.js.map": "/myportfolio/static/js/main.5d70dd10.js.map",
+    "main.422b4f95.css.map": "/myportfolio/static/css/main.422b4f95.css.map",
+    "main.25eb64ce.js.map": "/myportfolio/static/js/main.25eb64ce.js.map",
     "787.27ca2965.chunk.js.map": "/myportfolio/static/js/787.27ca2965.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ddbeb96.css",
-    "static/js/main.5d70dd10.js"
+    "static/css/main.422b4f95.css",
+    "static/js/main.25eb64ce.js"
   ]
 }
