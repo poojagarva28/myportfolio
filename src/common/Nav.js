@@ -62,7 +62,6 @@ const Nav = () => {
 
       <div id="navigation-mob">
         <h1 data-aos="fade-in">
-          {" "}
           <Link to="/myportfolio">Pooja Garva</Link>
         </h1>
         <i

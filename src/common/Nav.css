@@ -21,10 +21,16 @@
   font-weight: 600;
   text-transform: uppercase;
 }
+#navigation ul {
+  list-style: none;
+  padding: 0;
+}
 #navigation ul li {
   margin-bottom: 40px;
 }
-
+#navigation-mob {
+  display: none;
+}
 @media (max-width: 767px) {
   #navigation {
     display: none;
@@ -35,6 +41,7 @@
     background: #000;
     height: 60px;
     z-index: 999;
+    display: initial;
   }
   #home .imgsec .bgblack {
     display: none;
