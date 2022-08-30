@@ -4,6 +4,7 @@ import ProjectData from "../Data/Jsprojects.json";
 import githubImg from "../assets/img/github.png";
 import pf1 from "../assets/img/project1.png";
 import pf2 from "../assets/img/project2.png";
+import pf3 from "../assets/img/project3.png";
 
 const Jsprojects = () => {
   return (
@@ -36,6 +37,35 @@ const Jsprojects = () => {
                   </a>
                 </div>
               ))}
+            </div>
+            <br />
+            <h2>Dashboard | React JS </h2>
+            <p>
+              Local Storage / Chart JS / ApexCharts / Product Management / User
+              Management / Array methods / Filters / Javascript Events / Browser
+              APIs
+            </p>
+            <br />
+            <div className="js">
+              <div className="row">
+                <div className="col-sm-6">
+                  <a
+                    href="https://poojagarva28.github.io/React-Final/"
+                    target="_blank"
+                  >
+                    <img src={pf3} alt="Ecommerce Small Project" />
+                  </a>
+                  <br />
+                  <a
+                    href="https://github.com/poojagarva28/React-Final"
+                    className="btn btn-default d-block github"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Github Code <img src={githubImg} />
+                  </a>
+                </div>
+              </div>
             </div>
             <br />
             <h2>DOM Manipulation | Javascript </h2>
