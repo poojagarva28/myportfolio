@@ -1,0 +1,33 @@
+#learn {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 50px;
+  height: 50px;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  flex-direction: column;
+  padding: 30px;
+  border: 2px soli transparent;
+  transition: 0.2s ease-in-out;
+}
+#learn .fa {
+  color: #fff;
+}
+#learn span {
+  font-size: 14px;
+  margin-top: 5px;
+  font-weight: 600;
+}
+#learn:hover {
+  background-color: #fff;
+  border: 2px solid #000;
+  color: #000;
+  transform: scale(1.05);
+}
+#learn:hover .fa {
+  color: #000;
+}
