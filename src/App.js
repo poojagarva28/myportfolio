@@ -14,6 +14,7 @@ import { useEffect } from "react";
 import React, { Route, Routes } from "react-router-dom";
 import PageNotFound from "./Pages/PageNotFound";
 import Jsprojects from "./Pages/Jsprojects";
+import Learn from "./common/Learn";
 
 function App() {
   useEffect(() => {
@@ -23,9 +24,10 @@ function App() {
   return (
     <div>
       <Nav />
+      <Learn />
       {/* <Home/>
       <About />
-      <Services/>
+      <Services/>s
       <Education/>
       <Work/>
       <Contact/> */}
