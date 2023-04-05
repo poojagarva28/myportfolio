@@ -31,3 +31,9 @@
 #learn:hover .fa {
   color: #000;
 }
+
+@media (max-width: 768px) {
+  #learn {
+    display: none;
+  }
+}

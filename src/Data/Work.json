@@ -1,17 +1,23 @@
 [
-    {
-        "id":1,
-        "year":"Jun, 2020 - Jan, 2022",
-        "companyname":"Dots & Coms",
-        "position":"Web Developer",
-        "desc":"- HTML, CSS, Bootstrap, Javascript, jQuery, Sass, Photoshop, Wordpress \n - Increase performance & speed of the website \n - SEO and Rankings"
-    },
-    {
-        "id":2,
-        "year":"Jan, 2020 - May, 2020",
-        "companyname":"Enovative Media",
-        "position":"Web Developer",
-        "desc":"- HTML, CSS, Bootstrap, Javascript, jQuery \n - Wordpress (Elementor, Visual Composer, WP Bakery) \n - Customize themes"
-    }
-
+  {
+    "id": 1,
+    "year": "Dec, 2022 - Present",
+    "companyname": "Webbrains Technologies",
+    "position": "MERN Stack Developer | Full Time",
+    "desc": "- Wrote front-end and back-end code, integrated with 3+ frameworks and REST APIs, handled file uploads, authentication process and CRUD operations."
+  },
+  {
+    "id": 2,
+    "year": "Jun, 2020 - Jan, 2022",
+    "companyname": "Dots & Coms",
+    "position": "Web Developer | Full Time",
+    "desc": "- HTML, CSS, Bootstrap, Javascript, jQuery, Sass, Photoshop, Wordpress \n - Increase performance & speed of the website \n - SEO and Rankings"
+  },
+  {
+    "id": 3,
+    "year": "Jan, 2020 - May, 2020",
+    "companyname": "Enovative Media",
+    "position": "Web Developer | Part Time",
+    "desc": "- HTML, CSS, Bootstrap, Javascript, jQuery \n - Wordpress (Elementor, Visual Composer, WP Bakery) \n - Customize themes"
+  }
 ]
