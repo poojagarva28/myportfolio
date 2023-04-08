@@ -1,17 +1,10 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.900c340c.css",
-    "main.js": "/myportfolio/static/js/main.81ad40e9.js",
+    "main.css": "/myportfolio/static/css/main.fdd5090c.css",
+    "main.js": "/myportfolio/static/js/main.6694c5f8.js",
     "static/js/787.27ca2965.chunk.js": "/myportfolio/static/js/787.27ca2965.chunk.js",
-    "static/media/drdharabhatt.png": "/myportfolio/static/media/drdharabhatt.bf958c78a81d6c489736.png",
-    "static/media/avidorganics.png": "/myportfolio/static/media/avidorganics.26a7ef5ccefc3b5a1a3d.png",
-    "static/media/thecafemasala.png": "/myportfolio/static/media/thecafemasala.41644e73f22697222b4e.png",
-    "static/media/1life.png": "/myportfolio/static/media/1life.368848434100df1745b4.png",
-    "static/media/baggsinc.png": "/myportfolio/static/media/baggsinc.0f520e176588b1ad7213.png",
-    "static/media/designmaxinteriors.png": "/myportfolio/static/media/designmaxinteriors.41dcc583e95b18f90ca4.png",
-    "static/media/alembicaustralia.png": "/myportfolio/static/media/alembicaustralia.6e1b5e776743d4f454ef.png",
-    "static/media/mastercoin.png": "/myportfolio/static/media/mastercoin.52758b4ab6e572bf5401.png",
-    "static/media/wimetlab.png": "/myportfolio/static/media/wimetlab.a97856b1e4c004ae2993.png",
+    "static/media/luxurysteeldoors.png": "/myportfolio/static/media/luxurysteeldoors.7202ce519b334bd1a2e2.png",
+    "static/media/djzaame.png": "/myportfolio/static/media/djzaame.19f0772a3f59b42ff5fe.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/profileimg.png": "/myportfolio/static/media/profileimg.a03b81549b52f1154811.png",
     "static/media/fontawesome-webfont.eot": "/myportfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -21,17 +14,17 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/project2.png": "/myportfolio/static/media/project2.7cac1ea534b9a98ac770.png",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/poojagarva.pdf": "/myportfolio/static/media/poojagarva.e784eb7fddcaea08f9b4.pdf",
+    "static/media/poojagarva.pdf": "/myportfolio/static/media/poojagarva.78bd0936e74820b3ec21.pdf",
     "static/media/jsprojects.png": "/myportfolio/static/media/jsprojects.69d8a7d905bd4c337471.png",
     "static/media/github.png": "/myportfolio/static/media/github.22cfdd1cba253783ce51.png",
     "static/media/instagram.png": "/myportfolio/static/media/instagram.81d74f5b76e85ca7cd6a.png",
     "index.html": "/myportfolio/index.html",
-    "main.900c340c.css.map": "/myportfolio/static/css/main.900c340c.css.map",
-    "main.81ad40e9.js.map": "/myportfolio/static/js/main.81ad40e9.js.map",
+    "main.fdd5090c.css.map": "/myportfolio/static/css/main.fdd5090c.css.map",
+    "main.6694c5f8.js.map": "/myportfolio/static/js/main.6694c5f8.js.map",
     "787.27ca2965.chunk.js.map": "/myportfolio/static/js/787.27ca2965.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.900c340c.css",
-    "static/js/main.81ad40e9.js"
+    "static/css/main.fdd5090c.css",
+    "static/js/main.6694c5f8.js"
   ]
 }
