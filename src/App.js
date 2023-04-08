@@ -1,4 +1,3 @@
-import "./App.css";
 import Nav from "./common/Nav";
 import Home from "./Pages/Home";
 import "./common/Commoncss.css";
