@@ -1,20 +1,27 @@
 [
   {
     "id": 1,
-    "year": "Dec, 2022 - Present",
+    "year": "Aug, 2023 - Present",
+    "companyname": "AV DEVS Solutions",
+    "position": "Software Engineer | Full Time",
+    "desc": "-  TypeScript · Next.js · Tailwind CSS · React.js · HTML5 · css3 · JavaScript"
+  },
+  {
+    "id": 2,
+    "year": "Dec, 2022 - July, 2023",
     "companyname": "Webbrains Technologies",
     "position": "MERN Stack Developer | Full Time",
     "desc": "- Wrote front-end and back-end code, integrated with 3+ frameworks and REST APIs, handled file uploads, authentication process and CRUD operations."
   },
   {
-    "id": 2,
+    "id": 3,
     "year": "Jun, 2020 - Jan, 2022",
     "companyname": "Dots & Coms",
     "position": "Web Developer | Full Time",
     "desc": "- HTML, CSS, Bootstrap, Javascript, jQuery, Sass, Photoshop, Wordpress \n - Increase performance & speed of the website \n - SEO and Rankings"
   },
   {
-    "id": 3,
+    "id": 4,
     "year": "Jan, 2020 - May, 2020",
     "companyname": "Enovative Media",
     "position": "Web Developer | Part Time",
