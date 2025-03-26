@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.fbe3e000.css",
-    "main.js": "/myportfolio/static/js/main.55586f41.js",
+    "main.js": "/myportfolio/static/js/main.aaf51997.js",
     "static/js/787.27ca2965.chunk.js": "/myportfolio/static/js/787.27ca2965.chunk.js",
     "static/media/luxurysteeldoors.png": "/myportfolio/static/media/luxurysteeldoors.7202ce519b334bd1a2e2.png",
     "static/media/djzaame.png": "/myportfolio/static/media/djzaame.19f0772a3f59b42ff5fe.png",
@@ -11,20 +11,20 @@
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/project1.png": "/myportfolio/static/media/project1.c84a46c26ddc0831c611.png",
     "static/media/project3.png": "/myportfolio/static/media/project3.2403e42c7231746c7c0e.png",
+    "static/media/poojagarva.pdf": "/myportfolio/static/media/poojagarva.7f0d99a654aaf2a8b84a.pdf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/project2.png": "/myportfolio/static/media/project2.7cac1ea534b9a98ac770.png",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/poojagarva.pdf": "/myportfolio/static/media/poojagarva.3a63c2cd0d1f1d77e111.pdf",
     "static/media/jsprojects.png": "/myportfolio/static/media/jsprojects.69d8a7d905bd4c337471.png",
     "static/media/github.png": "/myportfolio/static/media/github.22cfdd1cba253783ce51.png",
     "static/media/instagram.png": "/myportfolio/static/media/instagram.81d74f5b76e85ca7cd6a.png",
     "index.html": "/myportfolio/index.html",
     "main.fbe3e000.css.map": "/myportfolio/static/css/main.fbe3e000.css.map",
-    "main.55586f41.js.map": "/myportfolio/static/js/main.55586f41.js.map",
+    "main.aaf51997.js.map": "/myportfolio/static/js/main.aaf51997.js.map",
     "787.27ca2965.chunk.js.map": "/myportfolio/static/js/787.27ca2965.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbe3e000.css",
-    "static/js/main.55586f41.js"
+    "static/js/main.aaf51997.js"
   ]
 }
