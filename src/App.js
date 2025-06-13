@@ -23,7 +23,7 @@ function App() {
   return (
     <div>
       <Nav />
-      <Learn />
+      {/* <Learn /> */}
       {/* <Home/>
       <About />
       <Services/>s
